@@ -1,0 +1,15 @@
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\bin\Debug\Yourstyle.exe.config
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\bin\Debug\Yourstyle.exe
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\bin\Debug\Yourstyle.pdb
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\bin\Debug\Yourstyle.xml
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\obj\Debug\Yourstyle.Form1.resources
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\obj\Debug\Yourstyle.Resources.resources
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\obj\Debug\Yourstyle.vbproj.GenerateResource.cache
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\obj\Debug\Yourstyle.vbproj.CoreCompileInputs.cache
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\obj\Debug\Yourstyle.exe
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\obj\Debug\Yourstyle.xml
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\obj\Debug\Yourstyle.pdb
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\obj\Debug\Yourstyle.frmClassic.resources
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\obj\Debug\Yourstyle.frmRetro.resources
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\obj\Debug\Yourstyle.vbprojAssemblyReference.cache
+C:\Users\Darren\Documents\IS1111\Your Style Project\Yourstyle\Yourstyle\obj\Debug\Yourstyle.frmVintage.resources
